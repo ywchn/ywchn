@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hey there! my name is Yu-Wen Chen, sometime people just call me Chen as a nickname. I graduated as a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science in June 2021. I'm currently working as a Computer Vision and Deep Learning Engineer at [Aerotract LLC](https://www.aerotractone.com//). My technology stack involves Pytorch, Tensorflow, Detectron2, SpaCy, MySQL, Scikit-Learn. I also love doing breakdance when I have time. 
+Hey there! My name is Yu-Wen Chen, sometime people just call me Chen as a nickname. I graduated as a master's student from [Oregon State University](https://eecs.oregonstate.edu/) in June 2021 majoring in Computer Science. I'm currently working as a Computer Vision and Deep Learning Engineer at [Aerotract LLC](https://www.aerotractone.com//). My technology stack involves Pytorch, Tensorflow, Detectron2, SpaCy, MySQL, Scikit-Learn. I also love doing breakdance when I have time. 
 
 - 📫 How to reach me: yuwenchen.us@gmail.com
 - 😄 Pronouns: He/Him/His
@@ -31,4 +31,4 @@ Hey there! my name is Yu-Wen Chen, sometime people just call me Chen as a nickna
 ![Yu-Wen's Github Stats](https://github-readme-stats.vercel.app/api?username=ywchn&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywchn&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ywchn.ywchn)
