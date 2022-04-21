@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hey there! My name is Yu-Wen Chen, sometime people just call me Chen as a nickname. I graduated as a master's student from [Oregon State University](https://eecs.oregonstate.edu/) in June 2021 majoring in Computer Science. I'm currently working as a Computer Vision and Deep Learning Engineer at [Aerotract LLC](https://www.aerotractone.com//). My technology stack involves Pytorch, Tensorflow, Detectron2, SpaCy, MySQL, Scikit-Learn. I also love doing breakdance when I have time. 
+Hey there! My name is Yu-Wen Chen, sometime people just call me Chen as a nickname. I graduated as a master's student from [Oregon State University](https://eecs.oregonstate.edu/) in June 2021 majoring in Computer Science. I'm currently working as a Computer Vision and Deep Learning Engineer at [Aerotract LLC](https://www.aerotractone.com//). My technology stack involves Pytorch, Tensorflow, SpaCy, MySQL, Scikit-Learn. I also love doing breakdance when I have time. 
 
 - 📫 How to reach me: yuwenchen.us@gmail.com
 - 😄 Pronouns: He/Him/His
